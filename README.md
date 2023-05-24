@@ -1,4 +1,4 @@
-# PHP BIP39 Last Word Calculation
+# BIP39 Last Word Calculation with PHP
 
 ## Presentation
 
