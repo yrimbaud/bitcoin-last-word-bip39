@@ -4,11 +4,11 @@
 
 This project is an implementation in PHP specifically designed to calculate the last word of a BIP39 mnemonic phrase.
 
-BIP39, which stands for Bitcoin Improvement Proposal 39, establishes a system of mnemonic codes or phrases made up of words that can be used to generate deterministic wallets. Essentially, these mnemonic phrases are human-friendly representations of the keys used in blockchain technologies.
+BIP39 (Bitcoin Improvement Proposal 39) establishes a system of mnemonic codes or phrases made up of words that can be used to generate deterministic wallets. Essentially, these mnemonic phrases are human-friendly representations of the keys used in blockchain technologies.
 
 A BIP39 phrase consists of a sequence of words, the last of which serves as a checksum for all the preceding ones. This checksum word ensures the integrity of the mnemonic, making it crucial in the process of key generation. This tool's primary function is to correctly derive this last word given the other words in the mnemonic phrase.
 
-As such, bip39-last-word can be particularly valuable to developers and crypto enthusiasts involved with cryptocurrency wallets, blockchain development, or any related technology that employs BIP39. It can help ensure the correctness of mnemonic phrases and by extension, enhance the security of the deterministic wallets they represent.
+This project can be useful to developers and crypto enthusiasts involved with cryptocurrency wallets, blockchain development, or any related technology that employs BIP39. It can help ensure the correctness of mnemonic phrases and by extension, enhance the security of the deterministic wallets they represent.
 
 ## Features
 
@@ -41,6 +41,17 @@ If you encounter issues while using this project, please check the following:
 - Verify that the input to the script meets the requirements of a BIP39 mnemonic phrase (excluding the last word).
 
 If the issue persists, please open an issue on GitHub.
+
+## Supporting The Project
+
+If you find this project beneficial and appreciate its contributions, you might consider offering your support. One of the ways you can do this is through a Bitcoin donation!
+
+Here is the Bitcoin address:
+bc1q3pc0ftvdew3e87k07d00k8tqj7ll924hgy69n6
+
+By donating Bitcoin, you are not only providing tangible assistance, but also endorsing the use of decentralized digital currencies. This encourages further innovation and freedom in the financial sector, aligning with the open source principles that guide this project.
+
+Every donation, big or small, is deeply appreciated and will be used to further improve and maintain this project. Your support helps dedicate more time and resources, ensuring the project's continuity and enhancement!
 
 ## Author
 
